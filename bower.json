@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:Haixing-Hu/datatables-i18n.git"
+    "url": "git://github.com/Haixing-Hu/datatables-i18n.git"
   },
   "main": [
     "i18n/af.lang",
