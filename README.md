@@ -3,6 +3,9 @@
 This repository contains the i18n language files for the DataTables. The language files were get from the DataTables plugins
 project, and were renamed with the standard ISO-639-1 language codes. 
 
+- DataTables: https://github.com/DataTables/DataTables/
+- DataTables Plugins: https://github.com/DataTables/Plugins
+
 ## Language Code
 
 The language files are renamed with the ISO-639-1 language codes. Checks the following URL for more details:
