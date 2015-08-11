@@ -1,6 +1,7 @@
 {
   "name": "datatables-i18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "The i18n language files of the DataTables",
   "homepage": "https://github.com/Haixing-Hu/datatables-i18n",
   "authors": [
     "DataTables team",
