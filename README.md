@@ -19,3 +19,9 @@ Install the package with bower:
 ```
 bower install -S datatables-i18n
 ```
+
+Install the package with npm:
+
+```
+npm install git+https://github.com/dzhuang/datatables-i18n.git
+```
