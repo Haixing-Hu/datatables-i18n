@@ -1,20 +1,22 @@
 {
   "name": "datatables-i18n",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "The i18n language files of the DataTables",
-  "authors": [
-    "DataTables team",
-    "Haixing Hu",
-    "CGH IT-Solutions GbR <info@cgh-solutions.de>"
-  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/Haixing-Hu/datatables-i18n.git"
   },
-  "homepage": "https://github.com/Haixing-Hu/datatables-i18n",
-  "private": false,
+  "keywords": [
+    "datatables",
+    "i18n"
+  ],
+  "author": "DataTables team, Haixing Hu, Broneq",
   "license": "MIT",
-  "dependencies": {
-    "datatables": ">=1.0.0"
-  }
+  "bugs": {
+    "url": "https://github.com/Haixing-Hu/datatables-i18n/issues"
+  },
+  "homepage": "https://github.com/Haixing-Hu/datatables-i18n#readme"
 }
